@@ -10,6 +10,7 @@
 #             continue
 # kbc()
 
+#Using list
 
 l=[["What is the national animal of India","Tiger","A:Tiger  B:Lion \n  C:Jaguar D:Cheetah"],["What is the national animal of India","Peacock","A:Tiger  B:Crocodile \n  C:Peacock  D:Magarmacchh"]]
 

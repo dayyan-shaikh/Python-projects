@@ -25,11 +25,11 @@ def game():
         else:
             print("Wrong")
             break
-    
-    
+
 d=input("Do you want to play a KBC: ")
 if d=="Yes" or d=="yes":
     game()
 else:
     print("jaldi yaha niklo")
+    
     

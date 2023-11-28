@@ -16,6 +16,5 @@ if nums:
 
 length=15
 
-
 password="".join(random.sample(all,length))
 print(password)
